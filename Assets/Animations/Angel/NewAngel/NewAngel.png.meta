@@ -1,0 +1,4186 @@
+fileFormatVersion: 2
+guid: 972737a9eaf834f4895bc71d2045df74
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2188393493386719980
+    second: NewAngel_0
+  - first:
+      213: 691000440570560088
+    second: NewAngel_1
+  - first:
+      213: -938212528910560452
+    second: NewAngel_2
+  - first:
+      213: 1054842831976557468
+    second: NewAngel_3
+  - first:
+      213: 9106819778779863100
+    second: NewAngel_4
+  - first:
+      213: 6136281445127946815
+    second: NewAngel_5
+  - first:
+      213: 4188703639113246908
+    second: NewAngel_6
+  - first:
+      213: -5254129049481111924
+    second: NewAngel_7
+  - first:
+      213: -2745815270041885776
+    second: NewAngel_8
+  - first:
+      213: 1177554016150009960
+    second: NewAngel_9
+  - first:
+      213: -2289448960588106321
+    second: NewAngel_10
+  - first:
+      213: -3099409616520435373
+    second: NewAngel_11
+  - first:
+      213: 7955182006922913101
+    second: NewAngel_12
+  - first:
+      213: 7663261671448144072
+    second: NewAngel_13
+  - first:
+      213: -955487500586090004
+    second: NewAngel_14
+  - first:
+      213: -7703979029547974884
+    second: NewAngel_15
+  - first:
+      213: 3836859022253481213
+    second: NewAngel_16
+  - first:
+      213: 24867620762315879
+    second: NewAngel_17
+  - first:
+      213: 8987803187499195193
+    second: NewAngel_18
+  - first:
+      213: 6739269490553196700
+    second: NewAngel_19
+  - first:
+      213: -4330297209074443176
+    second: NewAngel_20
+  - first:
+      213: -623218007950473476
+    second: NewAngel_21
+  - first:
+      213: -2406463568537304601
+    second: NewAngel_22
+  - first:
+      213: -6308047761835066431
+    second: NewAngel_23
+  - first:
+      213: 2747025872958969725
+    second: NewAngel_24
+  - first:
+      213: -5231313683147012209
+    second: NewAngel_25
+  - first:
+      213: 5402038383857838015
+    second: NewAngel_26
+  - first:
+      213: 7997293569252612335
+    second: NewAngel_27
+  - first:
+      213: 5450920663464919908
+    second: NewAngel_28
+  - first:
+      213: -6489700220264212908
+    second: NewAngel_29
+  - first:
+      213: 4454086814351887242
+    second: NewAngel_30
+  - first:
+      213: -1263965269741408803
+    second: NewAngel_31
+  - first:
+      213: 1740508885462196723
+    second: NewAngel_32
+  - first:
+      213: 4920180828660509630
+    second: NewAngel_33
+  - first:
+      213: -2400852715437886180
+    second: NewAngel_34
+  - first:
+      213: -2778745441991010194
+    second: NewAngel_35
+  - first:
+      213: 2937272042313935166
+    second: NewAngel_36
+  - first:
+      213: 2043358266241251220
+    second: NewAngel_37
+  - first:
+      213: 4267315100427019292
+    second: NewAngel_38
+  - first:
+      213: -7175236171657905048
+    second: NewAngel_39
+  - first:
+      213: 8552080961664422282
+    second: NewAngel_40
+  - first:
+      213: -3414036254614023862
+    second: NewAngel_41
+  - first:
+      213: 82794965504087735
+    second: NewAngel_42
+  - first:
+      213: 6244060186266144921
+    second: NewAngel_43
+  - first:
+      213: -8588782691933603528
+    second: NewAngel_44
+  - first:
+      213: -4560792837771228277
+    second: NewAngel_45
+  - first:
+      213: -8218310469944127665
+    second: NewAngel_46
+  - first:
+      213: -6787406198721458882
+    second: NewAngel_47
+  - first:
+      213: 4809806743428010158
+    second: NewAngel_48
+  - first:
+      213: 7949393204766265976
+    second: NewAngel_49
+  - first:
+      213: 9072028861680149747
+    second: NewAngel_50
+  - first:
+      213: -5371901036994821120
+    second: NewAngel_51
+  - first:
+      213: -2249577200087853626
+    second: NewAngel_52
+  - first:
+      213: -2739469681483301086
+    second: NewAngel_53
+  - first:
+      213: 4586685770345817239
+    second: NewAngel_54
+  - first:
+      213: -2066020836553361157
+    second: NewAngel_55
+  - first:
+      213: 5114429039265136518
+    second: NewAngel_56
+  - first:
+      213: -3457540382772722513
+    second: NewAngel_57
+  - first:
+      213: 6500467431612259079
+    second: NewAngel_58
+  - first:
+      213: 7073352202541901427
+    second: NewAngel_59
+  - first:
+      213: 4413389025366572517
+    second: NewAngel_60
+  - first:
+      213: 7130217875344067801
+    second: NewAngel_61
+  - first:
+      213: -3867472842337010444
+    second: NewAngel_62
+  - first:
+      213: 3207471022094551388
+    second: NewAngel_63
+  - first:
+      213: -3857148871088421387
+    second: NewAngel_64
+  - first:
+      213: 22929144590454159
+    second: NewAngel_65
+  - first:
+      213: -8369553703831322427
+    second: NewAngel_66
+  - first:
+      213: -209874141877342764
+    second: NewAngel_67
+  - first:
+      213: 7142398168234404910
+    second: NewAngel_68
+  - first:
+      213: 7176307572247980546
+    second: NewAngel_69
+  - first:
+      213: -8711733460572773748
+    second: NewAngel_70
+  - first:
+      213: 871810375356573479
+    second: NewAngel_71
+  - first:
+      213: 3036353708227395664
+    second: NewAngel_72
+  - first:
+      213: 7353832144764176692
+    second: NewAngel_73
+  - first:
+      213: -250096557203733011
+    second: NewAngel_74
+  - first:
+      213: -4547396184604955860
+    second: NewAngel_75
+  - first:
+      213: -1452302474094548226
+    second: NewAngel_76
+  - first:
+      213: -8822932522685204178
+    second: NewAngel_77
+  - first:
+      213: 2690918235947750753
+    second: NewAngel_78
+  - first:
+      213: -830942562794099857
+    second: NewAngel_79
+  - first:
+      213: -3715648025693587446
+    second: NewAngel_80
+  - first:
+      213: 7274723794335366583
+    second: NewAngel_81
+  - first:
+      213: -3184124643797824222
+    second: NewAngel_82
+  - first:
+      213: 1136932768425783080
+    second: NewAngel_83
+  - first:
+      213: 4491177850740512755
+    second: NewAngel_84
+  - first:
+      213: -7223657938450434918
+    second: NewAngel_85
+  - first:
+      213: -6745278997504608936
+    second: NewAngel_86
+  - first:
+      213: -2550674596825088593
+    second: NewAngel_87
+  - first:
+      213: -8389032889505508018
+    second: NewAngel_88
+  - first:
+      213: -7018234622393234621
+    second: NewAngel_89
+  - first:
+      213: -2442119787976942705
+    second: NewAngel_90
+  - first:
+      213: 947008593496013627
+    second: NewAngel_91
+  - first:
+      213: 2051522981744356984
+    second: NewAngel_92
+  - first:
+      213: 4481296476430443721
+    second: NewAngel_93
+  - first:
+      213: 6674651821709544475
+    second: NewAngel_94
+  - first:
+      213: -4572307746659591622
+    second: NewAngel_95
+  - first:
+      213: -5198512557966416380
+    second: NewAngel_96
+  - first:
+      213: 594931953473104223
+    second: NewAngel_97
+  - first:
+      213: 8254449804724243785
+    second: NewAngel_98
+  - first:
+      213: 3585946951636077662
+    second: NewAngel_99
+  - first:
+      213: 1695202423111781168
+    second: NewAngel_100
+  - first:
+      213: -8232728586841674819
+    second: NewAngel_101
+  - first:
+      213: 7961219838198519012
+    second: NewAngel_102
+  - first:
+      213: 6313760419509046254
+    second: NewAngel_103
+  - first:
+      213: -8003790766597036
+    second: NewAngel_104
+  - first:
+      213: -3835543066788834395
+    second: NewAngel_105
+  - first:
+      213: 8356988320593500078
+    second: NewAngel_106
+  - first:
+      213: -1391428019280106811
+    second: NewAngel_107
+  - first:
+      213: 7289866942628093128
+    second: NewAngel_108
+  - first:
+      213: -495704303719462010
+    second: NewAngel_109
+  - first:
+      213: 5162955845259113771
+    second: NewAngel_110
+  - first:
+      213: 6263356965431966237
+    second: NewAngel_111
+  - first:
+      213: 7080305655906536039
+    second: NewAngel_112
+  - first:
+      213: -2892984324610108705
+    second: NewAngel_113
+  - first:
+      213: 5919909077945357148
+    second: NewAngel_114
+  - first:
+      213: 2049198878858014147
+    second: NewAngel_115
+  - first:
+      213: -1291845697387383398
+    second: NewAngel_116
+  - first:
+      213: -32920951823543650
+    second: NewAngel_117
+  - first:
+      213: -7041185096210235694
+    second: NewAngel_118
+  - first:
+      213: 4642683953707060860
+    second: NewAngel_119
+  - first:
+      213: -3854304516993092250
+    second: NewAngel_120
+  - first:
+      213: 1072773407009006718
+    second: NewAngel_121
+  - first:
+      213: -1870701068495848778
+    second: NewAngel_122
+  - first:
+      213: -143356113865118825
+    second: NewAngel_123
+  - first:
+      213: -4434061349120574760
+    second: NewAngel_124
+  - first:
+      213: 9190514213954298605
+    second: NewAngel_125
+  - first:
+      213: 7674183097405863689
+    second: NewAngel_126
+  - first:
+      213: 8389473261197878333
+    second: NewAngel_127
+  - first:
+      213: -7652274022024514994
+    second: NewAngel_128
+  - first:
+      213: 6841388044067018223
+    second: NewAngel_129
+  - first:
+      213: -8481156924229933864
+    second: NewAngel_130
+  - first:
+      213: 8022411721668414712
+    second: NewAngel_131
+  - first:
+      213: -6170322078072467262
+    second: NewAngel_132
+  - first:
+      213: -4517249186368911016
+    second: NewAngel_133
+  - first:
+      213: -8474665889593548220
+    second: NewAngel_134
+  - first:
+      213: 7847325572878573611
+    second: NewAngel_135
+  - first:
+      213: 5730629935772739249
+    second: NewAngel_136
+  - first:
+      213: -6766995242845706698
+    second: NewAngel_137
+  - first:
+      213: 2338902902270167747
+    second: NewAngel_138
+  - first:
+      213: -6771156636734655161
+    second: NewAngel_139
+  - first:
+      213: -3709870410790425974
+    second: NewAngel_140
+  - first:
+      213: 5543919801943262211
+    second: NewAngel_141
+  - first:
+      213: -1084390341857039915
+    second: NewAngel_142
+  - first:
+      213: 6381821868650297924
+    second: NewAngel_143
+  - first:
+      213: 4945853936057246819
+    second: NewAngel_144
+  - first:
+      213: 4649694912148919784
+    second: NewAngel_145
+  - first:
+      213: -5760912869386293338
+    second: NewAngel_146
+  - first:
+      213: 1514137625363336986
+    second: NewAngel_147
+  - first:
+      213: 2636512739600112813
+    second: NewAngel_148
+  - first:
+      213: 7659366533557402213
+    second: NewAngel_149
+  - first:
+      213: 5064288885640574188
+    second: NewAngel_150
+  - first:
+      213: -1332120191590403630
+    second: NewAngel_151
+  - first:
+      213: 4807550819812470848
+    second: NewAngel_152
+  - first:
+      213: 3265281750067739305
+    second: NewAngel_153
+  - first:
+      213: -2026316898343233992
+    second: NewAngel_154
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NewAngel_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1339
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce27712a94cbe5e10800000000000000
+      internalID: 2188393493386719980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_1
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1339
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85eb8d75d3de69900800000000000000
+      internalID: 691000440570560088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_2
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1339
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3317720daccaf2f0800000000000000
+      internalID: -938212528910560452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_3
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1339
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b64d587fd83ae00800000000000000
+      internalID: 1054842831976557468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_4
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1339
+        width: 47
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c38dcabb65ce16e70800000000000000
+      internalID: 9106819778779863100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_5
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1231
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f320ca28673782550800000000000000
+      internalID: 6136281445127946815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_6
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1231
+        width: 67
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb82bbe54c3412a30800000000000000
+      internalID: 4188703639113246908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_7
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1231
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c861e9197759517b0800000000000000
+      internalID: -5254129049481111924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_8
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1230
+        width: 69
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b36f425f87e4e9d0800000000000000
+      internalID: -2745815270041885776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_9
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1225
+        width: 65
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868b4748323875010800000000000000
+      internalID: 1177554016150009960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_10
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1221
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa532c4ec4e3a30e0800000000000000
+      internalID: -2289448960588106321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1072
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359aed9006facf4d0800000000000000
+      internalID: -3099409616520435373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_12
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1072
+        width: 72
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d45283e03eb766e60800000000000000
+      internalID: 7955182006922913101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_13
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 1072
+        width: 81
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8688373ef595a60800000000000000
+      internalID: 7663261671448144072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_14
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1072
+        width: 118
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce18d3c3e2d6db2f0800000000000000
+      internalID: -955487500586090004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_15
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1070
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ffbbad3e7f51590800000000000000
+      internalID: -7703979029547974884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_16
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 1071
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfcdba2c3f24f3530800000000000000
+      internalID: 3836859022253481213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 916
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c62f528f8585000800000000000000
+      internalID: 24867620762315879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 916
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b530e21671bbc70800000000000000
+      internalID: 8987803187499195193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_19
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 916
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c901d0e35e1b68d50800000000000000
+      internalID: 6739269490553196700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_20
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 916
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c904991a1b7e3c0800000000000000
+      internalID: -4330297209074443176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_21
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 913
+        width: 89
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64c721682e957f0800000000000000
+      internalID: -623218007950473476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_22
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 915
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e14a6862268a9ed0800000000000000
+      internalID: -2406463568537304601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_23
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 773
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7f996bff4578a0800000000000000
+      internalID: -6308047761835066431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_24
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 773
+        width: 68
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77d6822a756f1620800000000000000
+      internalID: 2747025872958969725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_25
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 773
+        width: 57
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87c16ffbe3a667b0800000000000000
+      internalID: -5231313683147012209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_26
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 763
+        width: 77
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb72fd4f945e7fa40800000000000000
+      internalID: 5402038383857838015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 768
+        width: 93
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe851d731281cfe60800000000000000
+      internalID: 7997293569252612335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_28
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 771
+        width: 64
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463c9a4967f85ab40800000000000000
+      internalID: 5450920663464919908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 629
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45690689804ffe5a0800000000000000
+      internalID: -6489700220264212908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_30
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 628
+        width: 103
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b0230eb5810dd30800000000000000
+      internalID: 4454086814351887242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 724
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddde1a0b84e757ee0800000000000000
+      internalID: -1263965269741408803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 628
+        width: 111
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1a2661c97872810800000000000000
+      internalID: 1740508885462196723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_33
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 629
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb2ffa356ef74440800000000000000
+      internalID: 4920180828660509630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_34
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 702
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15fa42fc257eaed0800000000000000
+      internalID: -2400852715437886180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_35
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 628
+        width: 93
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e68d3e03eb9ef69d0800000000000000
+      internalID: -2778745441991010194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_36
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 628
+        width: 106
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e39eec23c5943c820800000000000000
+      internalID: 2937272042313935166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_37
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 676
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497fa2854877b5c10800000000000000
+      internalID: 2043358266241251220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_38
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 682
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14ec91897c883b30800000000000000
+      internalID: 4267315100427019292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_39
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 666
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86cfbc8c7b07c6c90800000000000000
+      internalID: -7175236171657905048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 650
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a819362e2581fa670800000000000000
+      internalID: 8552080961664422282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_41
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 471
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a411d616d18ee90d0800000000000000
+      internalID: -3414036254614023862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_42
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 555
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6df0c1595262100800000000000000
+      internalID: 82794965504087735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_43
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 468
+        width: 133
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9909d8e28ab57a650800000000000000
+      internalID: 6244060186266144921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_44
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 474
+        width: 146
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8393642a5a38ec880800000000000000
+      internalID: -8588782691933603528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_45
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 474
+        width: 107
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b0082041fc4b0c0800000000000000
+      internalID: -4560792837771228277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_46
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 471
+        width: 60
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f4b198b22b2fd80800000000000000
+      internalID: -8218310469944127665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_47
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 540
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d4ce2060a4ec1a0800000000000000
+      internalID: -6787406198721458882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_48
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 520
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea01e4cefbddfb240800000000000000
+      internalID: 4809806743428010158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_49
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 526
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8725ff5800be15e60800000000000000
+      internalID: 7949393204766265976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_50
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 526
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4698c1f2256ed70800000000000000
+      internalID: 9072028861680149747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_51
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 481
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0040f59e77c2375b0800000000000000
+      internalID: -5371901036994821120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_52
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 479
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c512fd8475e7c0e0800000000000000
+      internalID: -2249577200087853626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_53
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 341
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f3c3ac6d27bf9d0800000000000000
+      internalID: -2739469681483301086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_54
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 341
+        width: 84
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7942dc5286e27af30800000000000000
+      internalID: 4586685770345817239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_55
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 341
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf87ea2def40453e0800000000000000
+      internalID: -2066020836553361157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_56
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 341
+        width: 88
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f37522d1a1af640800000000000000
+      internalID: 5114429039265136518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_57
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 367
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4834837595400d0800000000000000
+      internalID: -3457540382772722513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 419
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b9e3720bc463a50800000000000000
+      internalID: 6500467431612259079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_59
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 398
+        width: 34
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 376acbb1a58992260800000000000000
+      internalID: 7073352202541901427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_60
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 399
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf4987fe18f3d30800000000000000
+      internalID: 4413389025366572517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_61
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 399
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc060f416f93f260800000000000000
+      internalID: 7130217875344067801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_62
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 396
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc380ec0f9f35ac0800000000000000
+      internalID: -3867472842337010444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_63
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 399
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c590e4396e9338c20800000000000000
+      internalID: 3207471022094551388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_64
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 382
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5c9fca987a87ac0800000000000000
+      internalID: -3857148871088421387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_65
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d415e7fe5715000800000000000000
+      internalID: 22929144590454159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_66
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 382
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0449a004f59db80800000000000000
+      internalID: -8369553703831322427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_67
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd6cd57490661df0800000000000000
+      internalID: -209874141877342764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_68
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2c230eba45ee1360800000000000000
+      internalID: 7142398168234404910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_69
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 382
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20a69ca17bd579360800000000000000
+      internalID: 7176307572247980546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_70
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c82eca80394b91780800000000000000
+      internalID: -8711733460572773748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_71
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 382
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 727e0a6daea491c00800000000000000
+      internalID: 871810375356573479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_72
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 382
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050855f3c9b432a20800000000000000
+      internalID: 3036353708227395664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_73
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 379
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43984869f5f0e0660800000000000000
+      internalID: 7353832144764176692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_74
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 382
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de5c25c918a778cf0800000000000000
+      internalID: -250096557203733011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_75
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 382
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba7a3634764e0c0800000000000000
+      internalID: -4547396184604955860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_76
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa6c2d289268dbe0800000000000000
+      internalID: -1452302474094548226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_77
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e297b14dd95ae8580800000000000000
+      internalID: -8822932522685204178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_78
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 382
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1655945e0ef085520800000000000000
+      internalID: 2690918235947750753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_79
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 382
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ba7e34426e774f0800000000000000
+      internalID: -830942562794099857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_80
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 382
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f6269ecd5f6cc0800000000000000
+      internalID: -3715648025693587446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_81
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 379
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdf0707fb205f460800000000000000
+      internalID: 7274723794335366583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_82
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 382
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0dd5b187bfc3d0800000000000000
+      internalID: -3184124643797824222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_83
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 366
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f2583445237cf00800000000000000
+      internalID: 1136932768425783080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_84
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 366
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f79d70c57ed35e30800000000000000
+      internalID: 4491177850740512755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_85
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 364
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a943bb7a06960cb90800000000000000
+      internalID: -7223657938450434918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_86
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 366
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b5d26d74f362a0800000000000000
+      internalID: -6745278997504608936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_87
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 366
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fadb0aed7fe2a9cd0800000000000000
+      internalID: -2550674596825088593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_88
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 366
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4594f3b80b249b80800000000000000
+      internalID: -8389032889505508018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_89
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 363
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b47ed8bc83a9e90800000000000000
+      internalID: -7018234622393234621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_90
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 366
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b9ea2edf8db1ed0800000000000000
+      internalID: -2442119787976942705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_91
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 366
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b729e5c43742d00800000000000000
+      internalID: 947008593496013627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_92
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 366
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e2c6f4849787c10800000000000000
+      internalID: 2051522981744356984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_93
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 366
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4a8d20763c03e30800000000000000
+      internalID: 4481296476430443721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_94
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 366
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c4960d77021ac50800000000000000
+      internalID: 6674651821709544475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_95
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 366
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a969c5456eb80c0800000000000000
+      internalID: -4572307746659591622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_96
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 366
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40621061f5c2bd7b0800000000000000
+      internalID: -5198512557966416380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_97
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 366
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f592b48a57f914800800000000000000
+      internalID: 594931953473104223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_98
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 213
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d81ea0d52bd8270800000000000000
+      internalID: 8254449804724243785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_99
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 215
+        width: 102
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc9abd0c7d3c130800000000000000
+      internalID: 3585946951636077662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 216
+        width: 108
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b85fb4f91968710800000000000000
+      internalID: 1695202423111781168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_101
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 216
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb291918f87fbd80800000000000000
+      internalID: -8232728586841674819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_102
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 216
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e49d92334feb7e60800000000000000
+      internalID: 7961219838198519012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_103
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 215
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb02c956abfe9750800000000000000
+      internalID: 6313760419509046254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_104
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 77
+        width: 76
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c108e389093eff0800000000000000
+      internalID: -8003790766597036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_105
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 72
+        width: 83
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a3d65ff6e965cac0800000000000000
+      internalID: -3835543066788834395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_106
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 72
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea75011b99cf9f370800000000000000
+      internalID: 8356988320593500078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_107
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 71
+        width: 83
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caa84ca697a0bce0800000000000000
+      internalID: -1391428019280106811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_108
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 68
+        width: 68
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ccd5376c5fca2560800000000000000
+      internalID: 7289866942628093128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_109
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 7
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b4b27ef87ee19f0800000000000000
+      internalID: -495704303719462010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_110
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 60
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2532bb9cf086a740800000000000000
+      internalID: 5162955845259113771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_111
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 57
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a7a02b9f9ebe650800000000000000
+      internalID: 6263356965431966237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_112
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 57
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a8f712b7c424260800000000000000
+      internalID: 7080305655906536039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_113
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 60
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd257de951e0ad7d0800000000000000
+      internalID: -2892984324610108705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_114
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 60
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c531b8df0fdb72250800000000000000
+      internalID: 5919909077945357148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_115
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 60
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cde570f587307c10800000000000000
+      internalID: 2049198878858014147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_116
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 57
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bb96ce21721ee0800000000000000
+      internalID: -1291845697387383398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_117
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 5
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e92d3e8919a0b8ff0800000000000000
+      internalID: -32920951823543650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_118
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 50
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3d96f57fa84e90800000000000000
+      internalID: -7041185096210235694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e8d1935702e6040800000000000000
+      internalID: 4642683953707060860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_120
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 5
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66571787672c28ac0800000000000000
+      internalID: -3854304516993092250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_121
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 5
+        width: 48
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e74e149dab143ee00800000000000000
+      internalID: 1072773407009006718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_122
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 39
+        width: 126
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba7c532a4fe906e0800000000000000
+      internalID: -1870701068495848778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_123
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b60bcbf52b20ef0800000000000000
+      internalID: -143356113865118825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_124
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 42
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daf06512bc0772c0800000000000000
+      internalID: -4434061349120574760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_125
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 42
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2ace1fbf34b8f70800000000000000
+      internalID: 9190514213954298605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_126
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 42
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 907fe261edc208a60800000000000000
+      internalID: 7674183097405863689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_127
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3466525b756d6470800000000000000
+      internalID: 8389473261197878333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_128
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 26
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4277490259adc590800000000000000
+      internalID: -7652274022024514994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_129
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 26
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe51839cd2e71fe50800000000000000
+      internalID: 6841388044067018223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_130
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 26
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d42ee666b0ec4a80800000000000000
+      internalID: -8481156924229933864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_131
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcc9ffc4f4555f60800000000000000
+      internalID: 8022411721668414712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_132
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 26
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c09db203cc9e5aa0800000000000000
+      internalID: -6170322078072467262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_133
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 26
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8590f846cc18f41c0800000000000000
+      internalID: -4517249186368911016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_134
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 26
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44228ac2640f36a80800000000000000
+      internalID: -8474665889593548220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_135
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 24
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b202448180d47ec60800000000000000
+      internalID: 7847325572878573611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_136
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 23
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b624fc7099478f40800000000000000
+      internalID: 5730629935772739249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_137
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 26
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6366c610eadc612a0800000000000000
+      internalID: -6766995242845706698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_138
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 26
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca81fd2cc3757020800000000000000
+      internalID: 2338902902270167747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_139
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 26
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745f6ecf9e40802a0800000000000000
+      internalID: -6771156636734655161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_140
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 26
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aaa126484e38cc0800000000000000
+      internalID: -3709870410790425974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_141
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 26
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304051adfa5ffec40800000000000000
+      internalID: 5543919801943262211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_142
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 7
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d92fbbbab873f0f0800000000000000
+      internalID: -1084390341857039915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_143
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a78bc5d29c09850800000000000000
+      internalID: 6381821868650297924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_144
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364e8a953f333a440800000000000000
+      internalID: 4945853936057246819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_145
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 10
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5d39033e8078040800000000000000
+      internalID: 4649694912148919784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_146
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6afe04694402d00b0800000000000000
+      internalID: -5760912869386293338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_147
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 7
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fc5d4e52c430510800000000000000
+      internalID: 1514137625363336986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_148
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac18a92e56c69420800000000000000
+      internalID: 2636512739600112813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_149
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a343df7498b4a60800000000000000
+      internalID: 7659366533557402213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_150
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b094e8e7f74640800000000000000
+      internalID: 5064288885640574188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_151
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 10
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d1f02e5ebb538de0800000000000000
+      internalID: -1332120191590403630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_152
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 10
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0407f86cff9d7b240800000000000000
+      internalID: 4807550819812470848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_153
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 10
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa7a54937c905d20800000000000000
+      internalID: 3265281750067739305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NewAngel_154
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83651ef448311e3e0800000000000000
+      internalID: -2026316898343233992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      NewAngel_0: 2188393493386719980
+      NewAngel_1: 691000440570560088
+      NewAngel_10: -2289448960588106321
+      NewAngel_100: 1695202423111781168
+      NewAngel_101: -8232728586841674819
+      NewAngel_102: 7961219838198519012
+      NewAngel_103: 6313760419509046254
+      NewAngel_104: -8003790766597036
+      NewAngel_105: -3835543066788834395
+      NewAngel_106: 8356988320593500078
+      NewAngel_107: -1391428019280106811
+      NewAngel_108: 7289866942628093128
+      NewAngel_109: -495704303719462010
+      NewAngel_11: -3099409616520435373
+      NewAngel_110: 5162955845259113771
+      NewAngel_111: 6263356965431966237
+      NewAngel_112: 7080305655906536039
+      NewAngel_113: -2892984324610108705
+      NewAngel_114: 5919909077945357148
+      NewAngel_115: 2049198878858014147
+      NewAngel_116: -1291845697387383398
+      NewAngel_117: -32920951823543650
+      NewAngel_118: -7041185096210235694
+      NewAngel_119: 4642683953707060860
+      NewAngel_12: 7955182006922913101
+      NewAngel_120: -3854304516993092250
+      NewAngel_121: 1072773407009006718
+      NewAngel_122: -1870701068495848778
+      NewAngel_123: -143356113865118825
+      NewAngel_124: -4434061349120574760
+      NewAngel_125: 9190514213954298605
+      NewAngel_126: 7674183097405863689
+      NewAngel_127: 8389473261197878333
+      NewAngel_128: -7652274022024514994
+      NewAngel_129: 6841388044067018223
+      NewAngel_13: 7663261671448144072
+      NewAngel_130: -8481156924229933864
+      NewAngel_131: 8022411721668414712
+      NewAngel_132: -6170322078072467262
+      NewAngel_133: -4517249186368911016
+      NewAngel_134: -8474665889593548220
+      NewAngel_135: 7847325572878573611
+      NewAngel_136: 5730629935772739249
+      NewAngel_137: -6766995242845706698
+      NewAngel_138: 2338902902270167747
+      NewAngel_139: -6771156636734655161
+      NewAngel_14: -955487500586090004
+      NewAngel_140: -3709870410790425974
+      NewAngel_141: 5543919801943262211
+      NewAngel_142: -1084390341857039915
+      NewAngel_143: 6381821868650297924
+      NewAngel_144: 4945853936057246819
+      NewAngel_145: 4649694912148919784
+      NewAngel_146: -5760912869386293338
+      NewAngel_147: 1514137625363336986
+      NewAngel_148: 2636512739600112813
+      NewAngel_149: 7659366533557402213
+      NewAngel_15: -7703979029547974884
+      NewAngel_150: 5064288885640574188
+      NewAngel_151: -1332120191590403630
+      NewAngel_152: 4807550819812470848
+      NewAngel_153: 3265281750067739305
+      NewAngel_154: -2026316898343233992
+      NewAngel_16: 3836859022253481213
+      NewAngel_17: 24867620762315879
+      NewAngel_18: 8987803187499195193
+      NewAngel_19: 6739269490553196700
+      NewAngel_2: -938212528910560452
+      NewAngel_20: -4330297209074443176
+      NewAngel_21: -623218007950473476
+      NewAngel_22: -2406463568537304601
+      NewAngel_23: -6308047761835066431
+      NewAngel_24: 2747025872958969725
+      NewAngel_25: -5231313683147012209
+      NewAngel_26: 5402038383857838015
+      NewAngel_27: 7997293569252612335
+      NewAngel_28: 5450920663464919908
+      NewAngel_29: -6489700220264212908
+      NewAngel_3: 1054842831976557468
+      NewAngel_30: 4454086814351887242
+      NewAngel_31: -1263965269741408803
+      NewAngel_32: 1740508885462196723
+      NewAngel_33: 4920180828660509630
+      NewAngel_34: -2400852715437886180
+      NewAngel_35: -2778745441991010194
+      NewAngel_36: 2937272042313935166
+      NewAngel_37: 2043358266241251220
+      NewAngel_38: 4267315100427019292
+      NewAngel_39: -7175236171657905048
+      NewAngel_4: 9106819778779863100
+      NewAngel_40: 8552080961664422282
+      NewAngel_41: -3414036254614023862
+      NewAngel_42: 82794965504087735
+      NewAngel_43: 6244060186266144921
+      NewAngel_44: -8588782691933603528
+      NewAngel_45: -4560792837771228277
+      NewAngel_46: -8218310469944127665
+      NewAngel_47: -6787406198721458882
+      NewAngel_48: 4809806743428010158
+      NewAngel_49: 7949393204766265976
+      NewAngel_5: 6136281445127946815
+      NewAngel_50: 9072028861680149747
+      NewAngel_51: -5371901036994821120
+      NewAngel_52: -2249577200087853626
+      NewAngel_53: -2739469681483301086
+      NewAngel_54: 4586685770345817239
+      NewAngel_55: -2066020836553361157
+      NewAngel_56: 5114429039265136518
+      NewAngel_57: -3457540382772722513
+      NewAngel_58: 6500467431612259079
+      NewAngel_59: 7073352202541901427
+      NewAngel_6: 4188703639113246908
+      NewAngel_60: 4413389025366572517
+      NewAngel_61: 7130217875344067801
+      NewAngel_62: -3867472842337010444
+      NewAngel_63: 3207471022094551388
+      NewAngel_64: -3857148871088421387
+      NewAngel_65: 22929144590454159
+      NewAngel_66: -8369553703831322427
+      NewAngel_67: -209874141877342764
+      NewAngel_68: 7142398168234404910
+      NewAngel_69: 7176307572247980546
+      NewAngel_7: -5254129049481111924
+      NewAngel_70: -8711733460572773748
+      NewAngel_71: 871810375356573479
+      NewAngel_72: 3036353708227395664
+      NewAngel_73: 7353832144764176692
+      NewAngel_74: -250096557203733011
+      NewAngel_75: -4547396184604955860
+      NewAngel_76: -1452302474094548226
+      NewAngel_77: -8822932522685204178
+      NewAngel_78: 2690918235947750753
+      NewAngel_79: -830942562794099857
+      NewAngel_8: -2745815270041885776
+      NewAngel_80: -3715648025693587446
+      NewAngel_81: 7274723794335366583
+      NewAngel_82: -3184124643797824222
+      NewAngel_83: 1136932768425783080
+      NewAngel_84: 4491177850740512755
+      NewAngel_85: -7223657938450434918
+      NewAngel_86: -6745278997504608936
+      NewAngel_87: -2550674596825088593
+      NewAngel_88: -8389032889505508018
+      NewAngel_89: -7018234622393234621
+      NewAngel_9: 1177554016150009960
+      NewAngel_90: -2442119787976942705
+      NewAngel_91: 947008593496013627
+      NewAngel_92: 2051522981744356984
+      NewAngel_93: 4481296476430443721
+      NewAngel_94: 6674651821709544475
+      NewAngel_95: -4572307746659591622
+      NewAngel_96: -5198512557966416380
+      NewAngel_97: 594931953473104223
+      NewAngel_98: 8254449804724243785
+      NewAngel_99: 3585946951636077662
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
