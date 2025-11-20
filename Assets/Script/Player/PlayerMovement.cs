@@ -1,6 +1,7 @@
 using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -126,6 +127,18 @@ public class PlayerMovement : MonoBehaviour
 
         }
 
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.CompareTag("MagicDoor"))
+        {
+            SceneManager.LoadScene("Game_Level_2");
+        }
+        if (collision.CompareTag("FlagWin"))
+        {
+            SceneManager.LoadScene("Win");
+        }
     }
 
     private void FixedUpdate()

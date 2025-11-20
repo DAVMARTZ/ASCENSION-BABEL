@@ -131,9 +131,10 @@ public class Enemy_AI : MonoBehaviour
 
         Debug.Log("¡Atacando al jugador!");
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (collision.collider.CompareTag("Obstacle"))
+        if (collision.CompareTag("Obstacle"))
         {
             direction *= -1f;
         }
