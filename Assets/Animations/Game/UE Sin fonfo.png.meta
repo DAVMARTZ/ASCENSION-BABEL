@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: c735b335f6c2e7d4a9b963f540469e89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4194570490850758159
+    second: UE Sin fonfo_0
+  - first:
+      213: 2085140467339870037
+    second: UE Sin fonfo_1
+  - first:
+      213: 7479567974224862602
+    second: UE Sin fonfo_2
+  - first:
+      213: 4021633261931473332
+    second: UE Sin fonfo_3
+  - first:
+      213: -8142468431214383855
+    second: UE Sin fonfo_4
+  - first:
+      213: 9120497579954947651
+    second: UE Sin fonfo_5
+  - first:
+      213: 32557869870246347
+    second: UE Sin fonfo_6
+  - first:
+      213: -3197825072696272430
+    second: UE Sin fonfo_7
+  - first:
+      213: -423792997616784738
+    second: UE Sin fonfo_8
+  - first:
+      213: -1325132642183975892
+    second: UE Sin fonfo_9
+  - first:
+      213: 6399452477553356792
+    second: UE Sin fonfo_10
+  - first:
+      213: 3838227273931757119
+    second: UE Sin fonfo_11
+  - first:
+      213: 6067751534486979907
+    second: UE Sin fonfo_12
+  - first:
+      213: -8518307177621090359
+    second: UE Sin fonfo_13
+  - first:
+      213: -6604396508924764317
+    second: UE Sin fonfo_14
+  - first:
+      213: 8723616201531423765
+    second: UE Sin fonfo_15
+  - first:
+      213: 2352867498587434209
+    second: UE Sin fonfo_16
+  - first:
+      213: 8397792379336063190
+    second: UE Sin fonfo_17
+  - first:
+      213: -446986888280484214
+    second: UE Sin fonfo_18
+  - first:
+      213: -3137170264274429764
+    second: UE Sin fonfo_19
+  - first:
+      213: 7305356716051588860
+    second: UE Sin fonfo_20
+  - first:
+      213: -6860783095527706703
+    second: UE Sin fonfo_21
+  - first:
+      213: 7524024814432938946
+    second: UE Sin fonfo_22
+  - first:
+      213: 8193392101500730447
+    second: UE Sin fonfo_23
+  - first:
+      213: -9038555824176632923
+    second: UE Sin fonfo_24
+  - first:
+      213: 7279451243262652871
+    second: UE Sin fonfo_25
+  - first:
+      213: 6133272357228110982
+    second: UE Sin fonfo_26
+  - first:
+      213: 5892040223400641679
+    second: UE Sin fonfo_27
+  - first:
+      213: 1061103481739873999
+    second: UE Sin fonfo_28
+  - first:
+      213: 1244006766664912596
+    second: UE Sin fonfo_29
+  - first:
+      213: -4736316417711139398
+    second: UE Sin fonfo_30
+  - first:
+      213: -858336418656220276
+    second: UE Sin fonfo_31
+  - first:
+      213: 2327788022050500017
+    second: UE Sin fonfo_32
+  - first:
+      213: -4580322400982959879
+    second: UE Sin fonfo_33
+  - first:
+      213: 7894129233323248048
+    second: UE Sin fonfo_34
+  - first:
+      213: -6872516246469098698
+    second: UE Sin fonfo_35
+  - first:
+      213: 3426388582498172935
+    second: UE Sin fonfo_36
+  - first:
+      213: -2900269439535880185
+    second: UE Sin fonfo_37
+  - first:
+      213: 4379032211057541810
+    second: UE Sin fonfo_38
+  - first:
+      213: -7619824953743362076
+    second: UE Sin fonfo_39
+  - first:
+      213: -7533516062206710440
+    second: UE Sin fonfo_40
+  - first:
+      213: 7076019160629992910
+    second: UE Sin fonfo_41
+  - first:
+      213: 3500481828663791323
+    second: UE Sin fonfo_42
+  - first:
+      213: -9184509683397318451
+    second: UE Sin fonfo_43
+  - first:
+      213: -5519940198992543899
+    second: UE Sin fonfo_44
+  - first:
+      213: -3185688788138196224
+    second: UE Sin fonfo_45
+  - first:
+      213: -6844762979816182092
+    second: UE Sin fonfo_46
+  - first:
+      213: 7523913770268508547
+    second: UE Sin fonfo_47
+  - first:
+      213: 1965132286564001476
+    second: UE Sin fonfo_48
+  - first:
+      213: -1356654536029716755
+    second: UE Sin fonfo_49
+  - first:
+      213: -309419846126585709
+    second: UE Sin fonfo_50
+  - first:
+      213: 2744754465119357044
+    second: UE Sin fonfo_51
+  - first:
+      213: -4600018912144888451
+    second: UE Sin fonfo_52
+  - first:
+      213: 2438452986755177088
+    second: UE Sin fonfo_53
+  - first:
+      213: -4162689160259307788
+    second: UE Sin fonfo_54
+  - first:
+      213: -3223840149805014250
+    second: UE Sin fonfo_55
+  - first:
+      213: 631922784900185417
+    second: UE Sin fonfo_56
+  - first:
+      213: -2994176041600391112
+    second: UE Sin fonfo_57
+  - first:
+      213: -9125850544455076939
+    second: UE Sin fonfo_58
+  - first:
+      213: -3010571232111719553
+    second: UE Sin fonfo_59
+  - first:
+      213: -5018532291097860724
+    second: UE Sin fonfo_60
+  - first:
+      213: -1176431740218962895
+    second: UE Sin fonfo_61
+  - first:
+      213: 6641915505723323131
+    second: UE Sin fonfo_62
+  - first:
+      213: 854648955548819040
+    second: UE Sin fonfo_63
+  - first:
+      213: 6028700195068194541
+    second: UE Sin fonfo_64
+  - first:
+      213: 6889645473896177322
+    second: UE Sin fonfo_65
+  - first:
+      213: 5039725375818287454
+    second: UE Sin fonfo_66
+  - first:
+      213: 6457008112832444150
+    second: UE Sin fonfo_67
+  - first:
+      213: 8148185931457355518
+    second: UE Sin fonfo_68
+  - first:
+      213: -8828216086329406903
+    second: UE Sin fonfo_69
+  - first:
+      213: -6800992442280930400
+    second: UE Sin fonfo_70
+  - first:
+      213: -3895116925071529315
+    second: UE Sin fonfo_71
+  - first:
+      213: 6220682542556021298
+    second: UE Sin fonfo_72
+  - first:
+      213: -8283814844519642933
+    second: UE Sin fonfo_73
+  - first:
+      213: -5457660068674663586
+    second: UE Sin fonfo_74
+  - first:
+      213: 4028785793520946559
+    second: UE Sin fonfo_75
+  - first:
+      213: -3522351007381350982
+    second: UE Sin fonfo_76
+  - first:
+      213: -230923391157738216
+    second: UE Sin fonfo_77
+  - first:
+      213: -4455398458231547670
+    second: UE Sin fonfo_78
+  - first:
+      213: 8372296944990510555
+    second: UE Sin fonfo_79
+  - first:
+      213: -8536665112518413742
+    second: UE Sin fonfo_80
+  - first:
+      213: -5592040642269739262
+    second: UE Sin fonfo_81
+  - first:
+      213: -2782427049688510763
+    second: UE Sin fonfo_82
+  - first:
+      213: 6932545850554038718
+    second: UE Sin fonfo_83
+  - first:
+      213: 2486645872107980568
+    second: UE Sin fonfo_84
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UE Sin fonfo_0
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 852
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f13183cc54e9c5c0800000000000000
+      internalID: -4194570490850758159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_1
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 818
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fb59e1538efec10800000000000000
+      internalID: 2085140467339870037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_2
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 825
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d9f01b173ccc760800000000000000
+      internalID: 7479567974224862602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_3
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 817
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9225ae426bfc730800000000000000
+      internalID: 4021633261931473332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_4
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 828
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d62aa3a14200f80800000000000000
+      internalID: -8142468431214383855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 783
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346460cf934829e70800000000000000
+      internalID: 9120497579954947651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 793
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9624cc53ba37000800000000000000
+      internalID: 32557869870246347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_7
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 798
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9d9180a0b0f93d0800000000000000
+      internalID: -3197825072696272430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 723
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ae0c693826e1af0800000000000000
+      internalID: -423792997616784738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 778
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c695ef1ee2c9de0800000000000000
+      internalID: -1325132642183975892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_10
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 777
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ffaf816f1c6fc850800000000000000
+      internalID: 6399452477553356792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_11
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 763
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f361bedae5f144530800000000000000
+      internalID: 3838227273931757119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_12
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 396
+        width: 401
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3458d6e4fdbf43450800000000000000
+      internalID: 6067751534486979907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 739
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0c3ef0c4e8c980800000000000000
+      internalID: -8518307177621090359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 660
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f95b1ed587854a0800000000000000
+      internalID: -6604396508924764317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 647
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c7f1137b2801970800000000000000
+      internalID: 8723616201531423765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_16
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 643
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecadd0268017a020800000000000000
+      internalID: 2352867498587434209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_17
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 627
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8fec3fca3fa8470800000000000000
+      internalID: 8397792379336063190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_18
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 630
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86d8c81bcbfbc9f0800000000000000
+      internalID: -446986888280484214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_19
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 569
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8110e14488674d0800000000000000
+      internalID: -3137170264274429764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_20
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 626
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6e4c15a37d16560800000000000000
+      internalID: 7305356716051588860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 599
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe016ef1a99c0a0800000000000000
+      internalID: -6860783095527706703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_22
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 599
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbef7964b4ba6860800000000000000
+      internalID: 7524024814432938946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 611
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c3173b4b6c4b170800000000000000
+      internalID: 8193392101500730447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_24
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 546
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe961cd59909280800000000000000
+      internalID: -9038555824176632923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_25
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 585
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1327a665ec50560800000000000000
+      internalID: 7279451243262652871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_26
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 556
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684ed43a6b2cd1550800000000000000
+      internalID: 6133272357228110982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_27
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 529
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84cb16ad5bb4c150800000000000000
+      internalID: 5892040223400641679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_28
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 535
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce0903aefbc9be00800000000000000
+      internalID: 1061103481739873999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 525
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4de8e313099934110800000000000000
+      internalID: 1244006766664912596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 468
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab51a7aef49354eb0800000000000000
+      internalID: -4736316417711139398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_31
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 396
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b073c23939614f0800000000000000
+      internalID: -858336418656220276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_32
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 439
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bdaab67fd6fd4020800000000000000
+      internalID: 2327788022050500017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_33
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 392
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f875ac3b0d6f60c0800000000000000
+      internalID: -4580322400982959879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_34
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 387
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9424b76b49d8d60800000000000000
+      internalID: 7894129233323248048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_35
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 389
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633cb10d2eaef90a0800000000000000
+      internalID: -6872516246469098698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 373
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7000242134afc8f20800000000000000
+      internalID: 3426388582498172935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_37
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 383
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708ea8f9f4c20c7d0800000000000000
+      internalID: -2900269439535880185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_38
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 378
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b20418489275cc30800000000000000
+      internalID: 4379032211057541810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_39
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 356
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7387d7391f04690800000000000000
+      internalID: -7619824953743362076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_40
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 306
+        width: 49
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d28724e03937790800000000000000
+      internalID: -7533516062206710440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_41
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 307
+        width: 20
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd553dafe1133260800000000000000
+      internalID: 7076019160629992910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_42
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 361
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bde07344da5349030800000000000000
+      internalID: 3500481828663791323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_43
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 364
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc8a7f4ca111a8080800000000000000
+      internalID: -9184509683397318451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_44
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 307
+        width: 18
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f76a982ab3563b0800000000000000
+      internalID: -5519940198992543899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_45
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 306
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003041afce82ac3d0800000000000000
+      internalID: -3185688788138196224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 307
+        width: 47
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4beef40c5548201a0800000000000000
+      internalID: -6844762979816182092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 307
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381468de5bf4a6860800000000000000
+      internalID: 7523913770268508547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 307
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c66c45276d854b10800000000000000
+      internalID: 1965132286564001476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_49
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 293
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb60923e13c2de0800000000000000
+      internalID: -1356654536029716755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_50
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 307
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983b211a48b4bbf0800000000000000
+      internalID: -309419846126585709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 306
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4784b19c4a3571620800000000000000
+      internalID: 2744754465119357044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_52
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 306
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d668ddb237920c0800000000000000
+      internalID: -4600018912144888451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_53
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 306
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a580d621027d120800000000000000
+      internalID: 2438452986755177088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_54
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 307
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6ff5c73482b36c0800000000000000
+      internalID: -4162689160259307788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_55
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 306
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 613ea32e67e9243d0800000000000000
+      internalID: -3223840149805014250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_56
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d737fbc6a05c800800000000000000
+      internalID: 631922784900185417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_57
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 261
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8386c6501cc8276d0800000000000000
+      internalID: -2994176041600391112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b33378d7477a5180800000000000000
+      internalID: -9125850544455076939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_59
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 261
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b88f24a6d4836d0800000000000000
+      internalID: -3010571232111719553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_60
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 261
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85e84778779a5ab0800000000000000
+      internalID: -5018532291097860724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_61
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 261
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c01c5b0997cafe0800000000000000
+      internalID: -1176431740218962895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_62
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 283
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf23cca46f2dc2c50800000000000000
+      internalID: 6641915505723323131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_63
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 261
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e552b62b25cdb00800000000000000
+      internalID: 854648955548819040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_64
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 261
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee2e50d2ee3aa350800000000000000
+      internalID: 6028700195068194541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_65
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae95fb3e00fc9f50800000000000000
+      internalID: 6889645473896177322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_66
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 261
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59cb271783b0f540800000000000000
+      internalID: 5039725375818287454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_67
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 261
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6713dfaa6eb9950800000000000000
+      internalID: 6457008112832444150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_68
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 283
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efed9580feb241170800000000000000
+      internalID: 8148185931457355518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_69
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 261
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a42fd4e30eb7580800000000000000
+      internalID: -8828216086329406903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_70
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 261
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a39abd28650e91a0800000000000000
+      internalID: -6800992442280930400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_71
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 260
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9aef7a3bc3c1f9c0800000000000000
+      internalID: -3895116925071529315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_72
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 261
+        width: 44
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232868950dd445650800000000000000
+      internalID: 6220682542556021298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_73
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 261
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc88c47d94af90d80800000000000000
+      internalID: -8283814844519642933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_74
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 283
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b00dd551f7244b0800000000000000
+      internalID: -5457660068674663586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_75
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 261
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dc4f2755f19e730800000000000000
+      internalID: 4028785793520946559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_76
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 261
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab59bc6cb681e1fc0800000000000000
+      internalID: -3522351007381350982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_77
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 261
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815e6b336689bccf0800000000000000
+      internalID: -230923391157738216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_78
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 252
+        width: 98
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8194c35be3b22c0800000000000000
+      internalID: -4455398458231547670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_79
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 261
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd5f3096bf503470800000000000000
+      internalID: 8372296944990510555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_80
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 283
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252bed13f4ca78980800000000000000
+      internalID: -8536665112518413742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_81
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 261
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20707fbe9a41562b0800000000000000
+      internalID: -5592040642269739262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_82
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 261
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dec0e91755d269d0800000000000000
+      internalID: -2782427049688510763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_83
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 261
+        width: 7
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9b16b88b9553060800000000000000
+      internalID: 6932545850554038718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UE Sin fonfo_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 233
+        width: 613
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8170031fe37528220800000000000000
+      internalID: 2486645872107980568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UE Sin fonfo_0: -4194570490850758159
+      UE Sin fonfo_1: 2085140467339870037
+      UE Sin fonfo_10: 6399452477553356792
+      UE Sin fonfo_11: 3838227273931757119
+      UE Sin fonfo_12: 6067751534486979907
+      UE Sin fonfo_13: -8518307177621090359
+      UE Sin fonfo_14: -6604396508924764317
+      UE Sin fonfo_15: 8723616201531423765
+      UE Sin fonfo_16: 2352867498587434209
+      UE Sin fonfo_17: 8397792379336063190
+      UE Sin fonfo_18: -446986888280484214
+      UE Sin fonfo_19: -3137170264274429764
+      UE Sin fonfo_2: 7479567974224862602
+      UE Sin fonfo_20: 7305356716051588860
+      UE Sin fonfo_21: -6860783095527706703
+      UE Sin fonfo_22: 7524024814432938946
+      UE Sin fonfo_23: 8193392101500730447
+      UE Sin fonfo_24: -9038555824176632923
+      UE Sin fonfo_25: 7279451243262652871
+      UE Sin fonfo_26: 6133272357228110982
+      UE Sin fonfo_27: 5892040223400641679
+      UE Sin fonfo_28: 1061103481739873999
+      UE Sin fonfo_29: 1244006766664912596
+      UE Sin fonfo_3: 4021633261931473332
+      UE Sin fonfo_30: -4736316417711139398
+      UE Sin fonfo_31: -858336418656220276
+      UE Sin fonfo_32: 2327788022050500017
+      UE Sin fonfo_33: -4580322400982959879
+      UE Sin fonfo_34: 7894129233323248048
+      UE Sin fonfo_35: -6872516246469098698
+      UE Sin fonfo_36: 3426388582498172935
+      UE Sin fonfo_37: -2900269439535880185
+      UE Sin fonfo_38: 4379032211057541810
+      UE Sin fonfo_39: -7619824953743362076
+      UE Sin fonfo_4: -8142468431214383855
+      UE Sin fonfo_40: -7533516062206710440
+      UE Sin fonfo_41: 7076019160629992910
+      UE Sin fonfo_42: 3500481828663791323
+      UE Sin fonfo_43: -9184509683397318451
+      UE Sin fonfo_44: -5519940198992543899
+      UE Sin fonfo_45: -3185688788138196224
+      UE Sin fonfo_46: -6844762979816182092
+      UE Sin fonfo_47: 7523913770268508547
+      UE Sin fonfo_48: 1965132286564001476
+      UE Sin fonfo_49: -1356654536029716755
+      UE Sin fonfo_5: 9120497579954947651
+      UE Sin fonfo_50: -309419846126585709
+      UE Sin fonfo_51: 2744754465119357044
+      UE Sin fonfo_52: -4600018912144888451
+      UE Sin fonfo_53: 2438452986755177088
+      UE Sin fonfo_54: -4162689160259307788
+      UE Sin fonfo_55: -3223840149805014250
+      UE Sin fonfo_56: 631922784900185417
+      UE Sin fonfo_57: -2994176041600391112
+      UE Sin fonfo_58: -9125850544455076939
+      UE Sin fonfo_59: -3010571232111719553
+      UE Sin fonfo_6: 32557869870246347
+      UE Sin fonfo_60: -5018532291097860724
+      UE Sin fonfo_61: -1176431740218962895
+      UE Sin fonfo_62: 6641915505723323131
+      UE Sin fonfo_63: 854648955548819040
+      UE Sin fonfo_64: 6028700195068194541
+      UE Sin fonfo_65: 6889645473896177322
+      UE Sin fonfo_66: 5039725375818287454
+      UE Sin fonfo_67: 6457008112832444150
+      UE Sin fonfo_68: 8148185931457355518
+      UE Sin fonfo_69: -8828216086329406903
+      UE Sin fonfo_7: -3197825072696272430
+      UE Sin fonfo_70: -6800992442280930400
+      UE Sin fonfo_71: -3895116925071529315
+      UE Sin fonfo_72: 6220682542556021298
+      UE Sin fonfo_73: -8283814844519642933
+      UE Sin fonfo_74: -5457660068674663586
+      UE Sin fonfo_75: 4028785793520946559
+      UE Sin fonfo_76: -3522351007381350982
+      UE Sin fonfo_77: -230923391157738216
+      UE Sin fonfo_78: -4455398458231547670
+      UE Sin fonfo_79: 8372296944990510555
+      UE Sin fonfo_8: -423792997616784738
+      UE Sin fonfo_80: -8536665112518413742
+      UE Sin fonfo_81: -5592040642269739262
+      UE Sin fonfo_82: -2782427049688510763
+      UE Sin fonfo_83: 6932545850554038718
+      UE Sin fonfo_84: 2486645872107980568
+      UE Sin fonfo_9: -1325132642183975892
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

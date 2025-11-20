@@ -44,6 +44,11 @@ public class PlayerMovement : MonoBehaviour
         sr = GetComponent<SpriteRenderer>();
     }
 
+    private void Update()
+    {
+        if (Time.timeScale == 0) return;
+    }
+
     private void OnEnable()
     {
         playerInput.Player.Enable();
